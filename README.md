@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./files/logo.jpg" alt="" width="400">
+    <img src="./files/logo insight.jpg" alt="" width="400">
 </h1>
 
 <p align="center">
@@ -18,18 +18,18 @@
 
 # :rocket: Tecnologias
 
-<img src="logo pbi.png" width="50">
+<img src="./files/logo pbi.png" width="50">
 
 # :package: Recursos
 
 ### Excel
-<img src="excel.jpg" width="100">
+<img src="./files/excel.jpg" width="50">
 
 # :art: Layout PC
 
-<img src="dashboard.jpg" alt="" width="100%">
+<img src="./files/dashboard.jpg" alt="" width="100%">
 
 # :iphone: Layout Mobile
 
-<img src="Screenshot_1.jpg" alt="" width="32%"> <img src="Screenshot_2.jpg" alt="" width="32%"> <img src="Screenshot_3.jpg" alt="" width="32%">
-<img src="Screenshot_4.jpg" alt="" width="32%"> <img src="Screenshot_5.jpg" alt="" width="32%">
+<img src="./files/Screenshot_1.jpg" alt="" width="32%"> <img src="./files/Screenshot_2.jpg" alt="" width="32%"> <img src="./files/Screenshot_3.jpg" alt="" width="32%">
+<img src="./files/Screenshot_4.jpg" alt="" width="32%"> <img src="./files/Screenshot_5.jpg" alt="" width="32%">
