@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  :white_check_mark: <a href="[https://andreadcsousa.github.io/rocketseat_nlw8_origin/" target="_blank](https://app.powerbi.com/view?r=eyJrIjoiNGRlZDFiMDktODU1Yi00ODFjLTlkNmYtMDkzMWZiYjYxYTRjIiwidCI6ImEzZTU3Zjc1LTU5YTktNDFkOS05ZGIwLTA0YmM0ODg2YWY3NyJ9&pageName=ReportSection)">Veja o dashboard</a>
+  :white_check_mark: <a href="https://app.powerbi.com/view?r=eyJrIjoiNGRlZDFiMDktODU1Yi00ODFjLTlkNmYtMDkzMWZiYjYxYTRjIiwidCI6ImEzZTU3Zjc1LTU5YTktNDFkOS05ZGIwLTA0YmM0ODg2YWY3NyJ9&pageName=ReportSection" target="_blank">Veja o dashboard</a>
  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-  :white_check_mark: <a href="[https://rocketseat.com.br/](https://www.alura.com.br/curso-online-power-bi-desktop-primeiro-dashboard)" target="_blank">Conheça o curso</a>
+  :white_check_mark: <a href="https://www.alura.com.br/curso-online-power-bi-desktop-primeiro-dashboard" target="_blank">Conheça o curso</a>
 </p>
 
 # :computer: Projeto
@@ -18,12 +18,12 @@
 
 # :rocket: Tecnologias
 
-<img src="./files/logo pbi.png" width="50">
+<img src="./files/logo pbi.png" width="50%">
 
 # :package: Recursos
 
 ### Excel
-<img src="./files/excel.jpg" width="50">
+<img src="./files/excel.jpg" width="50%">
 
 # :art: Layout PC
 
